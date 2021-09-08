@@ -25,6 +25,9 @@ PRODUCT_DEVICE := NB1
 PRODUCT_MANUFACTURER := HMD Global
 PRODUCT_BRAND := Nokia
 PRODUCT_MODEL := Nokia 8
+HAVOC_BUILD_TYPE := Official
+HAVOC_MAINTAINER := Edward Wu (edwardwu0223)
+HAVOC_GROUP_URL := https://t.me/havoc_NB1
 
 PRODUCT_GMS_CLIENTID_BASE := android-hmd-rev2
 
