@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_NB1.mk
+    $(LOCAL_DIR)/dot_NB1.mk
 
 COMMON_LUNCH_CHOICES := \
-    havoc_NB1-user \
-    havoc_NB1-userdebug \
-    havoc_NB1-eng
+    dot_NB1-user \
+    dot_NB1-userdebug \
+    dot_NB1-eng
