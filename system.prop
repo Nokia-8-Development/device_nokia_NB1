@@ -72,3 +72,8 @@ ro.opa.eligible_device=true
 
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# Havoc Official
+ro.havoc.device.name=Nokia 8
+ro.havoc.group.url=https://t.me/havoc_NB1
+ro.havoc.maintainer=Edward Wu (edwardwu0223)
